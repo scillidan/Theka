@@ -1,0 +1,43 @@
+
+[submodule "Asimov"]
+	path = Asimov
+	url = https://github.com/scillidan/Asimov
+[submodule "Manoel"]
+	path = Manoel
+	url = https://github.com/scillidan/Manoel
+[submodule "Shakespeare"]
+	path = Shakespeare
+	url = https://github.com/scillidan/Shakespeare
+[submodule "Witcher"]
+	path = Witcher
+	url = https://github.com/scillidan/Witcher
+[submodule "Rings"]
+	path = Rings
+	url = https://github.com/scillidan/Rings
+[submodule "Edgar"]
+	path = Edgar
+	url = https://github.com/scillidan/Edgar
+[submodule "Narnia"]
+	path = Narnia
+	url = https://github.com/scillidan/Narnia
+[submodule "Agatha"]
+	path = Agatha
+	url = https://github.com/scillidan/Agatha
+[submodule "Austen"]
+	path = Austen
+	url = https://github.com/scillidan/Austen
+[submodule "MrHolmes"]
+	path = MrHolmes
+	url = https://github.com/scillidan/MrHolmes
+[submodule "Kingkiller"]
+	path = Kingkiller
+	url = https://github.com/scillidan/Kingkiller
+[submodule "iceandfire"]
+	path = iceandfire
+	url = https://github.com/scillidan/iceandfire
+[submodule "Hitchhiker"]
+	path = Hitchhiker
+	url = https://github.com/scillidan/Hitchhiker
+[submodule "Italiano"]
+	path = Italiano
+	url = https://github.com/scillidan/Italiano
